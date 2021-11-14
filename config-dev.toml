@@ -1,0 +1,74 @@
+baseurl = "http://192.168.1.112/"
+languageCode = "en-us"
+title = "Ronverb Notes"
+theme = "ghostwriter"
+copyright = "Ronverbs, LLC"
+
+[Privacy]
+
+[Privacy.disqus]
+    disable = true
+
+[Privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+[Author]
+    name = "Ron Georgia"
+
+[Taxonomies]
+    tag = "tags"
+
+[Params]
+    mainSections = ["post", "about"]
+    intro = true
+    headline = "Ronverbs 16:11"
+    description = "Words (verbs) that may or may not matter"
+    github = "https://github.com/rgeorgia"
+    twitter = "https://twitter.com/RonGeorgia"
+    linkedin = "https://www.linkedin.com/in/rongeorgia/"
+    email = "ronverbs@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+    shareFacebook = false
+    shareGooglePlus = false
+    shareLinkedIn = false
+    exponeaJsUrl = ""
+    exponeaTarget = ""
+    exponeaToken = ""
+    exponeaTrackVisits = false
+    readingTime = true
+    readingTimeText = "Estimated reading time:"
+    fathomUrl = ""
+    fathomSiteId = ""
+
+[Permalinks]
+    post = "/:year/:month/:day/:filename/"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/project/"
+    weight = 2
+
+[[menu.main]]
+    name = "Bible Notes"
+    url = "/bible-notes/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/page/contact/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 5
