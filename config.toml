@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://localhost"
 languageCode = "en-us"
 title = "Ronverb Notes"
 theme = "ghostwriter"
