@@ -1,7 +1,8 @@
 ---
 title: "Jonah"
-date: 2020-04-25T07:51:01-04:00
+date: 2022-11-05T09:04:27-04:00
 draft: true
+author: "Ron Georgia"
 tags: ['jonah', 'orthodox']
 author: "Ron Georgia"
 ---

@@ -23,8 +23,8 @@ copyright = "Ronverbs, LLC"
 [Params]
     mainSections = ["post", "about"]
     intro = true
-    headline = "Ronverbs 16:11"
-    description = "Words (verbs) that may or may not matter"
+    headline = "Ronverbs 3:16"
+    description = "Words that may or may not matter"
     github = "https://github.com/rgeorgia"
     twitter = "https://twitter.com/RonGeorgia"
     linkedin = "https://www.linkedin.com/in/rongeorgia/"
