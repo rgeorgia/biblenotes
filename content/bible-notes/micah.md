@@ -8,7 +8,31 @@ author: "Ron Georgia"
 
 # Chapter 1
 
-Nothing yet
+1:1 This is a vision regarding Samaria and Jerusalem, not the United States.
+
+1:2 God calls the entire earth as a witness to his just judgment.
+
+1:5 All this is happening because of the rebellion of his people
+
+Jacob == Samaria, the rebellion of Jacob
+Judah == Jerusalem, the high place of Judah
+
+1:8 Micah’s response to Samaria’s judgment
+- lament and wailing
+- barefoot and naked
+- howling and mourning
+
+
+What is my response to someone, some group or nation who falls under judgment?
+
+Note the sin of Samaria is likened to a gangrenous wound. It is infecting Jerusalem.
+
+Our sin not only destroys us, but it affects and infects others. This goes beyond the obvious external sins. This peeks into the trenches of the heart. There is bitterness and envy, choking out our life and like an unholy root it defiles others.
+
+Who or what is Mareshah?
+
+See how the children are taken? Taken into exile. Taken to a place foreign to the ways of God. These are the ones who will teach and indoctrinate those children who are exiled. Their (our) children will become their servants and slaves.
+
 
 # Chapter 2
 
@@ -25,6 +49,9 @@ Note the evil plan. He oppresses the poor and the weak and takes their home and 
 2:4 – 6
 What goes around, comes around. Time wounds all heels!
 
+2:7 The word of the Lord brings good to those who walk uprightly. For those who insist on their own way, the word of the Lord is restrictive.
+
+
 > 2:9 You wrongly evict widows among my people from their cherished homes. You defraud their children of their prized inheritance (NET)
 
 Here again we have God looking out for the widow and the weak.
@@ -39,5 +66,40 @@ Again, we see the consequences of sin, of going against the All Mighty. You defi
 
 Wow. Does that not describe 95% of politicians and 100% of prosperity gospel preachers?
 
+Preach about wine and beer is more than just alcohol; the people love a preacher who will not preach anything of self-control and self-denial.
+
 2:12 - 13
 A most comforting passage. Christ the Good Shepherd will gather His people and lead them in and out of that great City, the City of our God.
+
+
+# Chapter 3
+
+3:4 God “block his ears” at the cry of the unrepentant
+
+3:5 The unjust rich (has food) waging an unjust war against the poor (has no food)
+
+They have darkness and no spiritual light or guidance
+
+The false seers and prophets have no answer. This is contrasted with Micah, a prophet of the Lord who is filled with the power of the Spirit of the LORD, is filled with justice and courage to proclaim the truth.
+
+3:11 A fitting discussion of our modern world.
+
+# Chapter 4
+
+This chapter is hard. It is difficult because much of it is still tainted and stained with my 40 years of dispensationalism. 
+
+We definitely see the Church
+- the ways of the Lord are made known
+- the path to walk is taught
+- brings peace and unity
+- security because they trust in the Lord
+
+Gathers the lame and those **I** injured.
+Gathers for what?
+To make them **My** people
+
+Prophecy of Babylonian captivity and eventual deliverance
+
+3:11 Many enemies assemble against the Church
+
+3:13 Reminiscent of the deliverance from Egypt, whom they plundered.
