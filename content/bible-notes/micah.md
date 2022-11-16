@@ -122,3 +122,31 @@ On that day
 Summary:
 - Israel scattered, gathered, sent to Babylon, rescued, attacked, defended, victorious
 - All apply, allegorically, to the Church
+
+# Chapter 5
+
+Coming soon
+
+# Chapter 6
+
+> What can we bring to the Lord?
+    Should we bring him burnt offerings?
+> Should we bow before God Most High
+    with offerings of yearling calves?
+> Should we offer him thousands of rams
+    and ten thousand rivers of olive oil?
+> Should we sacrifice our firstborn children
+    to pay for our sins?
+>
+> No, O people, the Lord has told you what is good,
+>    and this is what he requires of you:
+>    to **do what is right**, to **love mercy**,
+>    and to **walk humbly with your God**.
+> (NLT)
+
+Verse 8, while quoted for various and sundry reasons, is the answer to the questions posed in verses 6 and 7.
+
+What can you bring to the Lord? A life totally dedicated to Him and His will. A living sacrifice.
+
+> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.[a] 2 Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. (Romans 12:1,2 CSB)
+
