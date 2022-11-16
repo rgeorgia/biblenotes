@@ -103,3 +103,22 @@ Prophecy of Babylonian captivity and eventual deliverance
 4:11 Many enemies assemble against the Church
 
 4:13 Reminiscent of the deliverance from Egypt, whom they plundered.
+
+Last days
+- Lord’s house will be established at the to of a mountain
+- People will stream to it
+- They will be taught His ways
+- Disputes will be settled
+- swords beaten to plows, spears to knives
+- No more war
+- Safety
+
+On that day
+- the lame assembled
+- the scattered, gathered
+- These are they whom I injured
+  - LXX has “those whom I have rejected”
+
+Summary:
+- Israel scattered, gathered, sent to Babylon, rescued, attacked, defended, victorious
+- All apply, allegorically, to the Church
