@@ -100,6 +100,6 @@ To make them **My** people
 
 Prophecy of Babylonian captivity and eventual deliverance
 
-3:11 Many enemies assemble against the Church
+4:11 Many enemies assemble against the Church
 
-3:13 Reminiscent of the deliverance from Egypt, whom they plundered.
+4:13 Reminiscent of the deliverance from Egypt, whom they plundered.
