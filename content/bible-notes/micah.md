@@ -144,3 +144,7 @@ Verse 8, while quoted for various and sundry reasons, is the answer to the quest
 
 What can you bring to the Lord? A life totally dedicated to Him and His will. A living sacrifice.
 
+
+> Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
+>
+>2 Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God. (Romans 12:1,2 CSB)
