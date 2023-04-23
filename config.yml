@@ -1,0 +1,156 @@
+#baseURL: "https://ronverbs.com/"
+baseURL: "http://192.168.1.182:8888"
+title: Bible Notes
+paginate: 15
+theme: hugo-PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+#googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Bible Notes
+          url: bible-notes/
+          weight: 25
+        - name: Posts
+          url: post/
+          weight: 30
+        - name: OSB Notes
+          url: osb-notes/
+          weight: 20
+        - name: Page
+          url: page/
+          weight: 10
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Bible Notes
+  description: "Various and sundry notes and thoughts"
+  keywords: [Bible Notes, Posts, Page, OSB Notes]
+  author: Ron Georgia
+  images: ["/netbsd_toaster.png","/rust_crab.jpg"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto 
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Bible Notes
+    subtitle: "Notes and thoughts and various passages"
+    imageUrl: "images/stjohn.jpg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: St John
+    buttons:
+      - name: Bible Notes
+        url: bible-notes
+      - name: OSB Notes
+        url: osb-notes
+      - name: Posts
+        url: posts
+      - name: Page
+        url: page
+
+  homeInfoParams:
+    Title: "Roverbs 3:16"
+    Content: >
+        Welcome to Roverbs 3:16.
+
+        - **Ronverbs** is a stumbling, bumbling journey of mistakes and learning. 
+
+        - Repo for other projects [Github](https://github.com/rgeorgia).
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/rongeorgia/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/rongeorgia/"
+    - name: github
+      url: "https://github.com/rgeorgia"
+    - name: kofi
+      url: "https://netbsd.org"
+
+
+  assets:
+    disableHLJS: true # to disable highlight.js
+    disableFingerprinting: true
+    favicon: "images/favicon.png"
+    apple_touch_icon: "/stjohn.jpg"
+
+  label:
+    text: "Ronverbs"
+    icon: "/images/stjohn.jpg"
+    iconHeight: 45
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: "XYZabc"
+  #   bing:
+  #     SiteVerificationTag: "XYZabc"
+  #   yandex:
+  #     SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: "https://github.com/rgeorgia/ronotes/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # outputs:
+  #   home:
+  #       - HTML
+  #       - RSS
+  #       - JSON
+
+  # # for search
+  # # https://fusejs.io/api/options.html
+  # fuseOpts:
+  #   isCaseSensitive: false
+  #   includeMatches: true
+  #   shouldSort: true
+  #   location: 0
+  #   distance: 1000
+  #   threshold: 0.4
+  #   minMatchCharLength: 2
+  #   keys: ["title", "permalink", "summary", "content"]
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
