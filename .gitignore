@@ -18,6 +18,6 @@
 .idea/*
 backup/*
 public/*
-themes/
+# themes/
 .hugo_build.lock
 
