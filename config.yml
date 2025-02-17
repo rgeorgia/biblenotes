@@ -1,7 +1,6 @@
 #baseURL: "https://ronverbs.com/"
-baseURL: "http://192.168.1.182:8888"
+baseURL: "http://localhost:8888"
 title: Bible Notes
-paginate: 15
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -26,15 +25,15 @@ languages:
         - name: Bible Notes
           url: bible-notes/
           weight: 25
-        - name: Posts
-          url: post/
-          weight: 30
-        - name: OSB Notes
-          url: osb-notes/
-          weight: 20
-        - name: Page
-          url: page/
-          weight: 10
+#        - name: Posts
+#          url: post/
+#          weight: 30
+#        - name: OSB Notes
+#          url: osb-notes/
+#          weight: 20
+#        - name: Page
+#          url: page/
+#          weight: 10
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -72,12 +71,12 @@ params:
     buttons:
       - name: Bible Notes
         url: bible-notes
-      - name: OSB Notes
-        url: osb-notes
-      - name: Posts
-        url: posts
-      - name: Page
-        url: page
+#      - name: OSB Notes
+#        url: osb-notes
+#      - name: Posts
+#        url: posts
+#      - name: Page
+#        url: page
 
   homeInfoParams:
     Title: "Roverbs 3:16"

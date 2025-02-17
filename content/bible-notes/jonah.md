@@ -1,11 +1,10 @@
 ---
 title: "Jonah"
 date: 2022-11-05T10:41:33-04:00
-draft: true
+draft: false
 tags: ['jonah', 'devotional', 'ot']
 author: "Ron Georgia"
 ---
-# Jonah
 
 ## CHAPTER ONE
 
@@ -65,7 +64,7 @@ NET Bible has “go immediately” an so Jonah did, but he went immediately in t
 - Jonah offers himself as a sacrifice to calm the storm, to “rescue” the passengers on the ship
 - Jonah humbles himself in repentance, admitting publicly his fault.
 
-> 1:13  Nevertheless, the men rowed hard to get back to dry land, but they couldn’t because the sea was raging against them more and more.
+> 1:13  Nevertheless, the men rowed hard to get back to dry land, but they couldn't because the sea was raging against them more and more.
 
 - At first the sailors did not want this seemingly ghastly, albeit easy, solution
 - They tried by their own efforts to move towards safety
@@ -73,7 +72,7 @@ NET Bible has “go immediately” an so Jonah did, but he went immediately in t
 - He counted his life as dung so that others might live
 - I wonder how many would turn to the Lord and give him praise if we would give up our lives for Him?
 - This is a hard thing to do, give up one’s life for others
-- Why didn’t Jonah just jump overboard?
+- Why didn't Jonah just jump overboard?
 - Why did he have others throw him overboard?
 
 ## CHAPTER TWO
@@ -104,8 +103,8 @@ NET Bible has “go immediately” an so Jonah did, but he went immediately in t
 - message == At the end of 40 days, the city WILL BE overthrown
 - Septuagint has “at the end of 3 days”
 - Notice faith with works
-- They didn’t just believe, having “faith alone,” they had “works” that attended their faith.
-- They didn’t “do works” to elicit or earn God’s favor.
+- They didn't just believe, having “faith alone,” they had “works” that attended their faith.
+- They didn't “do works” to elicit or earn God’s favor.
 - Works are part of repentance
 - If they “believed” God but did not attempt to change their wicked ways, then their faith would be vain and dead
 - Note the reaction to the message started among the people. The reaction was not forced on the people by the king
