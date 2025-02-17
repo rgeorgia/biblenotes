@@ -33,22 +33,72 @@ This is a description of a pagan society, without the gospel.
 
 Compare Romans 1:20 with Psalm 19:1. How do "the things that have been made" give clear evidence of God's "eternal power and divine nature"?
 
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
 Paul uses phrases like "God gave them up in the lusts of their hearts" (1:24), "God gave them up to dishonorable passions" (1:26) and "God gave them up to a debased mind" (1:28). What implications do such proclamations have for the idea of "free will"?
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
 
 If sinners "suppress the truth" (1:18), how can Paul say that the truth is "clearly perceived" (1:20)?
 
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
 Paul is revealing that even the irreligious are aware of a holy standard. What are some ways in which even those who deny God demonstrate a tacit awareness of moral absolutes?
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
 
 2. **The Unrighteousness of the Jews (2:1-3:8)**
 
+Why does Paul say that when we judge others, we condemn ourselves? (2:1)
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+If tribulation will come to every evildoer, the Jews first, then the Greeks (Gentiles) and peace to everyone who does good, the Jews first, then the Greeks, how can Paul say God shows no partiality (2:11)?
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+In Romans 2:12-14 [ESV](https://www.biblegateway.com/passage/?search=Romans%202%3A12-14&version=ESV), [CSB](https://www.biblegateway.com/passage/?search=Romans%202%3A12-14&version=CSB) Paul _appears_ to say that obedience will justify Gentiles. When we interpret any biblical text, we have to keep it in its context. How does 2:15-29 help to clarify what Paul is saying? 
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+According to Romans 3:1-2 [CSB](https://www.biblegateway.com/passage/?search=Romans%203%3A1-2&version=CSB) [ESV](https://www.biblegateway.com/passage/?search=Romans%203%3A1-2&version=ESV), what advantage do Jews have?
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
 
 3. **The Unrighteousness of All People (3:9-20)**
 
-### Gospel Glimpses
+We are accustomed to speaking of unbelievers as "seekers." There is indeed a sense in which all people are seeking God -- in the sense that they are seeking to satisfy their need for God with all sorts of things that is not God. But what does Paul (quoting [Psalm 14:1-3](https://www.biblegateway.com/passage/?search=Psalms%2014%3A1-3&version=CSB)) mean when he says "no one seeks for God." [Romans 3:11](https://www.biblegateway.com/passage/?search=Romans%203%3A11&version=CSB)?
 
-### Whole-Bible Connections
+_________________________________________________
+_________________________________________________
+_________________________________________________
 
-### Theological Soundings
+How does Romans 3:18 relate to 3:11?
 
-### Personal Implications
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
+What is the benefit and the detriment of the works of the law, according to Romans 3:20?
+
+_________________________________________________
+_________________________________________________
+_________________________________________________
+
 
