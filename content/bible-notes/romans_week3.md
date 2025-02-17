@@ -11,44 +11,11 @@ author: "Ron Georgia"
 ## Raw and Unorganized Notes
 
 The power of the Gospel is set in contrast against the human state **without** the gospel.
-Paul's assessment of paganism is influenced by his Jewishness. Compare Romans 1: 
+Paul's assessment of paganism is influenced by his Jewishness. Compare [Romans 1:18-32](https://www.biblegateway.com/passage/?search=Romans%201%3A18-32&version=ESV) with [Wisdom 13:1-9](https://www.biblegateway.com/passage/?search=Wisdom%2013%3A1-9&version=NRSVCE); [14:22-27](https://www.biblegateway.com/passage/?search=Wisdom%2014%3A22-27&version=NRSVCE)
 
-The Foolishness of Nature Worship
-### Wisdom 13 
+### The Foolishness of Nature Worship
 
-> 1 For all people who were ignorant of God were foolish by nature;
-and they were unable from the good things that are seen to know the one who exists,
-nor did they recognize the artisan while paying heed to his works;
->
-> 2 but they supposed that either fire or wind or swift air,
-or the circle of the stars, or turbulent water,
-or the luminaries of heaven were the gods that rule the world.
->
-> 3 If through delight in the beauty of these things people assumed them to be gods,
-let them know how much better than these is their Lord,
-for the author of beauty created them.
->
-> 4 And if people were amazed at their power and working,
-let them perceive from them
-how much more powerful is the one who formed them.
->
-> 5 For from the greatness and beauty of created things
-comes a corresponding perception of their Creator.
->
-> 6 Yet these people are little to be blamed,
-for perhaps they go astray
-while seeking God and desiring to find him.
->
-> 7 For while they live among his works, they keep searching,
-and they trust in what they see, because the things that are seen are beautiful.
->
-> 8 Yet again, not even they are to be excused;
->
-> 9 for if they had the power to know so much
-that they could investigate the world,
-how did they fail to find sooner the Lord of these things?
-
-"Paul in not talking here about a personal knowledge of God, which requires faith, but a factual knowledge of God's existence and certain of his predicates." (_Romans: A Commentary_, Patrick Reardon)
+"Paul in not talking here about a personal knowledge of God, which requires faith, but a factual knowledge of God's existence and certain of his predicates." (_Romans: An Orthodox Commentary_, Patrick Reardon)
 
 Idolatry darkens the heart. First the thoughts are turned away, then idolatry is expressed in the body as sexual immorality. (Ibid)
 
@@ -56,4 +23,32 @@ Paul is speaking of rejection by a society, not every individual within it. When
 
 This is a description of a pagan society, without the gospel.
 
+"God's judgment falls, then, not only on the malefactors themselves, but on the society that condones, excuses, permits or approves such malefaction." (Ibid)
+
+## The Study Guide
+
+### Reflection and Discussion
+
+1. **The Unrighteousness of the Gentiles (1:18-32)**
+
+Compare Romans 1:20 with Psalm 19:1. How do "the things that have been made" give clear evidence of God's "eternal power and divine nature"?
+
+Paul uses phrases like "God gave them up in the lusts of their hearts" (1:24), "God gave them up to dishonorable passions" (1:26) and "God gave them up to a debased mind" (1:28). What implications do such proclamations have for the idea of "free will"?
+
+If sinners "suppress the truth" (1:18), how can Paul say that the truth is "clearly perceived" (1:20)?
+
+Paul is revealing that even the irreligious are aware of a holy standard. What are some ways in which even those who deny God demonstrate a tacit awareness of moral absolutes?
+
+2. **The Unrighteousness of the Jews (2:1-3:8)**
+
+
+3. **The Unrighteousness of All People (3:9-20)**
+
+### Gospel Glimpses
+
+### Whole-Bible Connections
+
+### Theological Soundings
+
+### Personal Implications
 
