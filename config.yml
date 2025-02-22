@@ -1,5 +1,5 @@
-#baseURL: "https://ronverbs.com/"
-baseURL: "http://localhost:8888"
+# baseURL: "https://ronverbs.com/"
+baseURL: "http://localhost:1313"
 title: Bible Notes
 theme: PaperMod
 
@@ -25,9 +25,9 @@ languages:
         - name: Bible Notes
           url: bible-notes/
           weight: 25
-#        - name: Posts
-#          url: post/
-#          weight: 30
+        - name: Posts
+          url: post/
+          weight: 30
 #        - name: OSB Notes
 #          url: osb-notes/
 #          weight: 20
@@ -73,8 +73,8 @@ params:
         url: bible-notes
 #      - name: OSB Notes
 #        url: osb-notes
-#      - name: Posts
-#        url: posts
+      - name: Posts
+        url: posts
 #      - name: Page
 #        url: page
 
