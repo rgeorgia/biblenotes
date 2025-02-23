@@ -26,7 +26,7 @@ languages:
           url: bible-notes/
           weight: 25
         - name: Posts
-          url: post/
+          url: posts/
           weight: 30
         - name: Life Group Notes
           url: life-group/
