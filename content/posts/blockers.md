@@ -42,11 +42,16 @@ All the saints are engaged in prayer and intercession before God Almighty. Mary 
 
 ### Warping, Perversions and Misunderstandings
 
-- prayers TO Mary
-- giving Mary a higher place than is warranted
-- go to her because she will go to her Son and he will listen to her
-  - This diminishes Christ's preeminence
-  - Makes Christ "beholding" to his mother
-  - be careful what you ask
+- Prayers **TO** Mary
 
+    While it is both right and we are encouraged to ask for intercessory prayer, we must not pray to Mary in the way we would petition God the Father or His Son, Jesus Christ. Asking the saints to pray **for** us right, just as if you asked your father or a friend to pray for you. But to attribute to Mary, or any other saint, the same level of worship that belongs only to God is wrong.
 
+- Giving Mary a higher place than is warranted
+
+    Many cultural Catholics are "obsessed" with Mary. They make her the focus of their lives. She dominates the many ignorant posts on social media. Their dedication and adoration of her far outweighs their dedication and focus of Christ. Granted, there are some new converts who have a new knowledge, and therefore and new zeal, for the truth of Mary and the saints that Protestants have buried; to them we extend grace and patience. But most are cradle Catholics whose knowledge base was formed by Facebook posts, coffee cup inscriptions and pithy rebuttals to non-Catholics. 
+
+- They petition her because she will ask her Son, and a good Son always listens to his mother, right?
+
+    I've heard this many times. Even among educated and knowledgeable Catholics. This is a weird and perverse twist, and it honestly gets under my skin. This attitude would make Christ "beholding" to his mother. Christ was given ultimate authority and possess all wisdom, knowledge and power. He is not obligated to respond to the requests of any. While the intersessions of Mary and the saints may carry more weight, asking them to pray should not be viewed as a magic rabbits foot to get what you want. 
+
+    Asking Mary to go to Christ with your request, just so it can be granted would be very dangerous. Read 1 Kings chapter 2. Adonijah asks King Solomon's mother, Bathsheba, to go to her son with specific request. Read what happened. Not the fairy tale ending one would expect.
