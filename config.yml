@@ -28,8 +28,8 @@ languages:
         - name: Posts
           url: post/
           weight: 30
-#        - name: OSB Notes
-#          url: osb-notes/
+        - name: Life Group Notes
+          url: life-group/
 #          weight: 20
 #        - name: Page
 #          url: page/
@@ -71,8 +71,8 @@ params:
     buttons:
       - name: Bible Notes
         url: bible-notes
-#      - name: OSB Notes
-#        url: osb-notes
+      - name: Life Group Notes
+        url: life-group
       - name: Posts
         url: posts
 #      - name: Page
