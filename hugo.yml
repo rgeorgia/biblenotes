@@ -1,6 +1,7 @@
 # baseURL: "https://ronverbs.com/"
 baseURL: "http://localhost:1313"
 title: Bible Notes
+pagnate: 5
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -36,15 +37,19 @@ languages:
 #          weight: 10
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Bible Notes
-  description: "Various and sundry notes and thoughts"
-  keywords: [Bible Notes, Posts, Page, OSB Notes]
-  author: Ron Georgia
-  images: ["/netbsd_toaster.png","/rust_crab.jpg"]
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto 
-  disableThemeToggle: false
+  profilemode:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    title: Bible Notes
+    description: "Various and sundry notes and thoughts"
+    keywords: [Bible Notes, Posts, Page, OSB Notes]
+    author: Ron Georgia
+    images: ["/netbsd_toaster.png","/rust_crab.jpg"]
+
+    ShowShareButtons: true
+
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto 
+    disableThemeToggle: false
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -126,14 +131,14 @@ params:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
-  # outputs:
-  #   home:
-  #       - HTML
-  #       - RSS
-  #       - JSON
+  outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
 
-  # # for search
-  # # https://fusejs.io/api/options.html
+  # for search
+  # https://fusejs.io/api/options.html
   # fuseOpts:
   #   isCaseSensitive: false
   #   includeMatches: true
