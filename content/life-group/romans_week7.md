@@ -28,6 +28,7 @@ St. John Chrysostom (347 - 407), in Homily VIII on Romans, comments
 > Not only is he forgiven his sins, but he is liberated from their power and inner compulsion. Under the law he was a miserable prisoner of war and cried out "Who will rescue me?" (Farley, The epistle to the Romans: A gospel for all 2005 p 95)
 
 It is by the power of God's Spirit we are made free from the law of sin and death.
+
 The "law of sin and death" is **not** a reference to the Law of Moses, which Paul calls, spiritual.
 
 
