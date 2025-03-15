@@ -20,4 +20,4 @@ backup/*
 public/*
 # themes/
 .hugo_build.lock
-themes/*
+PaperMod/
