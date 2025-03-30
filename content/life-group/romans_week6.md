@@ -8,6 +8,36 @@ author: "Ron Georgia"
 
 ## Week 6: The Triumph of Grace
 
+## Reflection and Discussion
+
+**1a**. Refute: since more sinning results in more grace we should sin more.
+
+Since we are raised with Christ, we should walk in the newness of life. Our old self is crucified and we are no longer enslaved by sin. **Do not** let sin reign in your mortal bodies.
+
+**1b**. What is the relationship between Romans 6:1-11 and 6:12-14
+
+Verse 12 - Therefore... Because of what is revealed in 1 to 11, the believer should not choose sin over righteousness. We should not LET sin have dominion.
+
+This is how we respond to the truth of 1 to 11. And yet the "doing" produces a perpetual cycle of faith and obedience. This is a synergistic relationship, in that the believer and God work together, in concert.
+
+**1c**. If Paul tells the believer to pursue sacrificial obedience, why does he say we are not under the law?
+
+We are _sacrificing_ or denying self to mortify the flesh in order to serve Christ. Not only that we deny ourselves to become more like Christ in word, deed, thought and attitude.
+
+**1d**. According to 6:15-23, can you not be a slave to something?
+
+No. We are either slaves to sin or slaves to Christ and righteousness.
+
+**2a**. What is the basic point of 7:1-6?
+
+This continues the theme that we can over come sin because we are not under or bound to the law. We were bound to the law, but then we died, and raising with Christ we are no longer bound. We are free to be with and serve Christ.
+
+**2c**. If the law is so "negative", why does Paul say it's good?
+
+Because it is holy and good. It reveals and exposes our sin.
+
+
+
 ## Willing Submission
 
 - "So you must **consider** yourselves dead to sin and alive to God in Christ Jesus."
