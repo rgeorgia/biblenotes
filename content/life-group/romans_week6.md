@@ -1,7 +1,7 @@
 ---
 title: "Romans Week 6"
 date: 2025-03-30T10:41:33-04:00
-draft: true
+draft: false
 tags: ['romans', 'lifegroup', 'nt']
 author: "Ron Georgia"
 ---
@@ -10,7 +10,22 @@ author: "Ron Georgia"
 
 ## Willing Submission
 
+- "So you must **consider** yourselves dead to sin and alive to God in Christ Jesus."
+- Though being dead to sin is a fact, we must **consider** or **recon** it to be so.
+- We must acknowledge it is true, Why? Because there are times when it _feels_ like sin still has dominion.
+- There are times when temptation, i.e. **presenting** your members to sinful passions seems to strong to resist.
+- Do not let sin **reign** to **obey** its desires
+- No longer **present** your members to sin but **present** yourselves to God
+- If you **present** yourselves... as **obedient** slaves
+- As you once **presented** your members ... to impurity, now **present** yourselves to God
 
+> "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord"
+
+Here is the conclusion and summary: obedience to sin results in death, obedience to righteousness in Christ, results in eternal life.
+
+### Question / Thought
+
+If we, who died being free from the law and joined to Christ, present ourselves to another man (i.e. the passions of sin), is that not also adultery?
 
 ## Romans 7
 
