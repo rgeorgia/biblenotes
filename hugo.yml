@@ -10,8 +10,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-#googleAnalytics: UA-123-45
-
 minify:
   disableXML: true
   # minifyOutput: true
@@ -35,14 +33,13 @@ languages:
 params:
   profileMode:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: Bible Notes
     subtitle: "Notes and thoughts and various passages"
     description: "Various and sundry notes and thoughts"
-    keywords: [Bible Notes, Posts, Page, OSB Notes]
+    keywords: [Bible Notes, Letters, Life Group]
     author: Ron Georgia
-    images: ["images/netbsd_toaster.png","/rust_crab.jpg"]
+    images: ["/images/rust_crab.jpg"]
     enabled: true # needs to be explicitly set
-    imageUrl: "images/stjohn.jpg"
+    imageUrl: "/images/stjohn.jpg"
     imageWidth: 200
     imageHeight: 200
     imageTitle: St John
@@ -53,6 +50,12 @@ params:
         url: life-group
       - name: Letters
         url: letters-for-a-friend
+
+  cover:
+    image: "/images/Christ-angels-deisis-2-GraceTruth.jpg"
+    alt: "Christ and the host"
+    caption: "Host of Heaven"
+
 
   ShowShareButtons: true
   DateFormat: "January 2, 2006"
@@ -73,8 +76,6 @@ params:
   TocOpen: false
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/rongeorgia/"
     - name: linkedin
       url: "https://www.linkedin.com/in/rongeorgia/"
     - name: github
@@ -86,11 +87,11 @@ params:
   assets:
     disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "/images/favicon.png"
-    apple_touch_icon: "/images/stjohn.jpg"
+    favicon: "/images/stjohn.png"
+#    apple_touch_icon: "/images/stjohn.jpg"
 
   label:
-    text: "Ronverbs"
+    text: "Ronverbs 3:16"
     icon: "/images/stjohn.jpg"
     iconHeight: 45
 
@@ -100,7 +101,7 @@ params:
     hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/rgeorgia/biblenotes/content"
+    URL: "https://github.com/rgeorgia/biblenotes/tree/main/content/letters-for-a-friend/"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -123,9 +124,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 
 taxonomies:
-  category: categories
   tag: tags
-  series: series
 
 markup:
   goldmark:
