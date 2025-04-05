@@ -31,10 +31,10 @@ languages:
           weight: 30
         - name: Life Group Notes
           url: life-group/
-#          weight: 20
-#        - name: Page
-#          url: page/
-#          weight: 10
+          weight: 40
+        - name: Letters
+          url: letters_for_a_friend/
+          weight: 60
 
 params:
   profilemode:
