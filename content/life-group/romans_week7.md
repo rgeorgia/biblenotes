@@ -3,7 +3,8 @@ title: "Romans Week 7"
 date: 2025-03-14T22:11:59-04:00
 draft: true
 tags: ['romans', 'lifegroup', 'nt']
-
+cascade:
+  featured_image: '/images/candle_prayer.jpg'
 author: "Ron Georgia"
 ---
 

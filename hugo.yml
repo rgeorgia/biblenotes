@@ -1,7 +1,11 @@
-baseURL: "http://localhost:1313"
-title: Bible Notes
-pagnate: 5
-theme: PaperMod
+baseURL: "http://localhost"
+languageCode: "en-us"
+license: "3-Clause BSD"
+title: "Bible Notes"
+theme: "ananke"
+static: "static"
+resources: "/resources"
+images: "/images"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -9,124 +13,32 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-
-minify:
-  disableXML: true
-  # minifyOutput: true
+SectionPagesMenu: "main"
 
 languages:
   en:
     languageName: "English"
     weight: 1
-    menu:
-      main:
-        - name: Bible Notes
-          url: bible-notes/
-          weight: 25
-        - name: Life Group Notes
-          url: life-group/
-          weight: 40
-        - name: Letters
-          url: letters-for-a-friend/
-          weight: 60
+
+DefaultContentLanguage: "en"
+
+pagination:
+  pagerSize: 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 params:
-  profileMode:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    subtitle: "Notes and thoughts and various passages"
-    description: "Various and sundry notes and thoughts"
-    keywords: [Bible Notes, Letters, Life Group]
-    author: Ron Georgia
-    images: ["/images/rust_crab.jpg"]
-    enabled: true # needs to be explicitly set
-    imageUrl: "/images/stjohn.jpg"
-    imageWidth: 200
-    imageHeight: 200
-    imageTitle: St John
-    buttons:
-      - name: Bible Notes
-        url: bible-notes
-      - name: Life Group Notes
-        url: life-group
-      - name: Letters
-        url: letters-for-a-friend
+  body_classes: "sans-serif bg-near-white"
+  background_color_class: "bg-black"
+  featured_image_class: "cover bg-top"
+  favicon: ""
+  logo: "/images/logo.jpg"
+  logo_width: "200px"
+  description: "Letters to Greg"
+  recent_posts_number: 3
+  mainSections: ["life-group"]
+  cover_dimming_class: "bg-black-60"
 
-  cover:
-    image: "/images/Christ-angels-deisis-2-GraceTruth.jpg"
-    alt: "Christ and the host"
-    caption: "Host of Heaven"
-
-
-  ShowShareButtons: true
-  DateFormat: "January 2, 2006"
-  defaultTheme: auto 
-  disableThemeToggle: false
-
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: true
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  ShowToc: true
-  TocOpen: false
-
-  socialIcons:
-    - name: linkedin
-      url: "https://www.linkedin.com/in/rongeorgia/"
-    - name: github
-      url: "https://github.com/rgeorgia"
-    - name: kofi
-      url: "https://netbsd.org"
-
-
-  assets:
-    disableHLJS: true # to disable highlight.js
-    disableFingerprinting: true
-    favicon: "/images/stjohn.png"
-#    apple_touch_icon: "/images/stjohn.jpg"
-
-  label:
-    text: "Ronverbs 3:16"
-    icon: "/images/stjohn.jpg"
-    iconHeight: 45
-
-  cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
-    hiddenInSingle: false # hide on single page
-
-  editPost:
-    URL: "https://github.com/rgeorgia/biblenotes/tree/main/content/letters-for-a-friend/"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-
-  outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
-
-  # for search
-  # https://fusejs.io/api/options.html
-  fuseOpts:
-    isCaseSensitive: false
-    includeMatches: true
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 2
-    keys: ["title", "permalink", "summary", "content"]
+cascade:
+  featured_image: '/images/Christ-angels-deisis-2-GraceTruth.jpg'
 
 taxonomies:
-  tag: tags
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+  tag: "tags"
