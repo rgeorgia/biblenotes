@@ -4,7 +4,7 @@ date: 2025-03-14T22:11:59-04:00
 draft: true
 tags: ['romans', 'lifegroup', 'nt']
 cascade:
-  featured_image: '/images/candle_prayer.jpg'
+  featured_image: '/images/last-judgement.jpg'
 author: "Ron Georgia"
 ---
 
@@ -80,4 +80,12 @@ The "law of sin and death" is **not** a reference to the Law of Moses, which Pau
 - We are to serve Christ with the mind
 - "Set your mind (desire) on things above, where Christ sits on the right hand of God."
 - Set your mind can be thought as your "mind set". Or the things you "tend to". We "mind" the garden by spending time and effort keeping it clean.
-- 
+ 
+>1 So if you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. 
+>2 **Set your minds** on the things that are above, not on the things that are on earth, 
+>3 for you have died, and your life is hidden with Christ in God. 
+>4 When Christ who is your life is revealed, then you also will be revealed with him in glory.
+>5 **Put to death**, therefore, whatever in you is earthly: sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). 
+>6 On account of these the wrath of God is coming on those who are disobedient.
+>
+>Col 3:1-6

@@ -37,7 +37,6 @@ This continues the theme that we can over come sin because we are not under or b
 Because it is holy and good. It reveals and exposes our sin.
 
 
-
 ## Willing Submission
 
 - "So you must **consider** yourselves dead to sin and alive to God in Christ Jesus."
@@ -84,6 +83,7 @@ In (the) confession of faith, we observer the **primacy** of the **resurrection*
 "The professed believer who claims that grace give him license to sin with abandon is not a believer at all." pg 47
 
 - I am not sure we are in a position to judge who is saved and who is not. As pertaining to the context of this accusation, perhaps the individual was truly born again, then fell under the spell and influence of false teaching.
+
 ## General Raw and Random Notes
 
 - grace saves us from sin and "saves" us to obedience
@@ -92,15 +92,15 @@ In (the) confession of faith, we observer the **primacy** of the **resurrection*
 - united in death, united in resurrection
 - 6:7 ==> For whoever is dead to sin is **freed** from sin. What does he mean _free_?
 - 6:8 ==> cf Col 3:1-5
->1 So if you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. 
+> 1 So if you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. 
 >
->2 Set your minds on the things that are above, not on the things that are on earth, 
+> 2 Set your minds on the things that are above, not on the things that are on earth, 
 >
->3 for you have died, and your life is hidden with Christ in God. 
+> 3 for you have died, and your life is hidden with Christ in God. 
 >
->4 When Christ who is your[a] life is revealed, then you also will be revealed with him in glory.
+> 4 When Christ who is your[a] life is revealed, then you also will be revealed with him in glory.
 >
->5 Put to death, therefore, whatever in you is earthly: sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). (NRSVue)
+> 5 Put to death, therefore, whatever in you is earthly: sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). (NRSVue)
 
 - 6:11 ==> Consider yourself dead to sin and **alive** to Christ
 - Dominion
@@ -126,3 +126,4 @@ In (the) confession of faith, we observer the **primacy** of the **resurrection*
 - The Law does not eliminate sin, it reveals what it is and teaches us to hate sin.
 - By "the flesh," Paul means the life of our senses, as it has degraded into a state of rebellion against God.
 - Definition of the flesh: "living in the flesh, our sinful passions" Romans 7:5
+

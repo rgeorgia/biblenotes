@@ -3,6 +3,8 @@ title: "Romans Week 3"
 date: 2025-02-16T19:24:59-05:00
 draft: false
 tags: ['romans', 'lifegroup', 'nt']
+cascade:
+    featured_image: 'images/Christ-angels-deisis-2-GraceTruth.jpg'
 author: "Ron Georgia"
 ---
 
@@ -74,7 +76,7 @@ Paul is speaking of rejection by a society, not every individual within it. When
 
 This is a description of a pagan society, without the gospel.
 
-"God's judgment falls, then, not only on the malefactors themselves, but on the society that condones, excuses, permits or approves such malefaction." <sup>1</sup>
+"God's judgment falls, then, not only on the malefactors themselves, but on the society that condones, excuses, permits or approves such malefaction."<sup>1</sup>
 
 God's love and universal righteousness find their counterbalance in His universal wrath...
 The parallel is set by stressing that both his righteousness and his wrath is revealed.
@@ -85,7 +87,7 @@ Sin is not simply misbehaving, it is a refusal to know Him, to break off the rel
 
 ### Legalism vs Spiritual
 
-Romans 2:29. "The name **Jew** comes from "Judah," which means "the Lord be praised." A **true** Jew is one who seeks **praise ... Not from men but from God**.The end goal for legalism is to have praise from men; the goal of the spiritual person is to please God. <sup>2</sup>
+Romans 2:29. "The name **Jew** comes from "Judah," which means "the Lord be praised." A **true** Jew is one who seeks **praise ... Not from men but from God**.The end goal for legalism is to have praise from men; the goal of the spiritual person is to please God. sup2sup
 
 ### Comments on Faith
 
@@ -95,7 +97,7 @@ Romans 2:29. "The name **Jew** comes from "Judah," which means "the Lord be prai
 >
 >Faith is a relationship of transforming grace. It is a not a merely juridical or declarative reality. It is a psychological reality, because it is an act and habit by which the soul permits itself to be seized and grasped by Christ.
 >
->Faith, then, is my foundational relationship to the person of Christ, and in giving him my trust and obedience I trust and obey God. As my faith grows by serving as the basis of my decisions and choices in life, my soul is altered by faith <sup>3</sup>
+>Faith, then, is my foundational relationship to the person of Christ, and in giving him my trust and obedience I trust and obey God. As my faith grows by serving as the basis of my decisions and choices in life, my soul is altered by faithsup3sup
 
 
 ### Resources
@@ -109,5 +111,4 @@ Romans 2:29. "The name **Jew** comes from "Judah," which means "the Lord be prai
 [4] _Commentary on the Epistle to the Romans. Books 1-5_, translation of the works of Origen, Scheck - Catholic University of America Press - 2001
 
 [5] _Homilies on the Acts of the Apostles and The Epistle to the Romans_, translated works of St. John Chrysostom, Schaff et al. - Hendrickson Publishers - 2012
-
 

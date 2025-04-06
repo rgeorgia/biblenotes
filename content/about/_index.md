@@ -7,5 +7,5 @@ tags: ['about']
 resources:
 - name: header
 cascade:
-  featured_image: '/images/candle_prayer.jpg'
+  featured_image: '/images/st-george.jpg'
 ---

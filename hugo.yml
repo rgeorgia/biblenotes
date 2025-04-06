@@ -14,25 +14,27 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 SectionPagesMenu: "main"
+ignoreLogs: ["warning-goldmark-raw-html"]
+DefaultContentLanguage: "en"
 
 languages:
   en:
     languageName: "English"
-    weight: 1
+    weight: 10
 
-DefaultContentLanguage: "en"
 
 pagination:
   pagerSize: 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
 params:
   body_classes: "sans-serif bg-near-white"
+  post_content_classes: "bodoni"
   background_color_class: "bg-black"
   featured_image_class: "cover bg-top"
   favicon: "/images/logo.jpg"
   logo: "/images/logo.jpg"
   logo_width: "200px"
-  recent_posts_number: 3
+  recent_posts_number: 5
   mainSections: ["life-group"]
   cover_dimming_class: "bg-black-60"
 
