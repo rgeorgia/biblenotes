@@ -29,10 +29,9 @@ params:
   body_classes: "sans-serif bg-near-white"
   background_color_class: "bg-black"
   featured_image_class: "cover bg-top"
-  favicon: ""
+  favicon: "/images/logo.jpg"
   logo: "/images/logo.jpg"
   logo_width: "200px"
-  description: "Letters to Greg"
   recent_posts_number: 3
   mainSections: ["life-group"]
   cover_dimming_class: "bg-black-60"
