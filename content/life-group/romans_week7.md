@@ -3,12 +3,25 @@ title: "Romans Week 7"
 date: 2025-03-14T22:11:59-04:00
 draft: true
 tags: ['romans', 'lifegroup', 'nt']
+toc: true
 cascade:
   featured_image: '/images/last-judgement.jpg'
 author: "Ron Georgia"
 ---
 
 ## Week 7 Life In the Spirit (Romans 8:1-39)
+
+## Study Book Questions
+
+1. Life in the Spirit (8:1-17)
+
+- **First** we need to define condemnation. What is condemnation?
+
+
+- From the previous 7 chapters, what leads Paul to say that the believer is under no condemnation?
+
+- What role does _union_ with Christ play in this verse?
+
 
 ### Rough notes, thoughts and green things in general
 
@@ -36,14 +49,30 @@ St. John Chrysostom (347 - 407), in Homily VIII on Romans, comments
 (Homilies on Romans. Fig Press; 1842)
 
 
-### No condemnation.
+### No condemnation
 
-#### Condemnation
+**Condemnation**
 
 - What is condemnation?
 - "Neither do I condemn you."
 - "If our heart condemns us... Christ is greater than..."
 - He condemns sin in the flesh (7:3)
+
+John 3:16-21(NKJV)
+
+>16 For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. 17 For God did not send His Son into the world to **condemn** the world, but that the world through Him might be saved.
+>
+>18 “He who believes in Him is not **condemned**; but he who does not believe is **condemned** already, because he has not believed in the name of the only begotten Son of God. 19 And this is the **condemnation**, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. 20 For everyone practicing evil hates the light and does not come to the light, lest his deeds should be exposed. 21 But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God.”
+
+Christian Standard Bible
+
+>16 For God loved the world in this way:[a] He gave[b] his one and only Son, so that everyone who believes in him will not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Anyone who believes in him is not condemned, but anyone who does not believe is already condemned, because he has not believed in the name of the one and only Son of God. 19 This is the judgment: The light has come into the world, and people loved darkness rather than the light because their deeds were evil. 20 For everyone who does evil hates the light and avoids it,[c] so that his deeds may not be exposed. 21 But anyone who lives by[d] the truth comes to the light, so that his works may be shown to be accomplished by God.”
+
+John 8:10
+Christian Standard Bible
+
+>10 When Jesus stood up, he said to her, “Woman, where are they? Has no one condemned you?”
+>11 “No one, Lord,” she answered. “Neither do I condemn you,” said Jesus. “Go, and from now on do not sin anymore.”
 
 - In Christ
   - by baptism
@@ -89,3 +118,26 @@ The "law of sin and death" is **not** a reference to the Law of Moses, which Pau
 >6 On account of these the wrath of God is coming on those who are disobedient.
 >
 >Col 3:1-6
+
+### Romans 8:31-39
+
+>33 Who can bring an accusation against God’s elect? God is the one who justifies. 
+>34 Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us. 
+
+
+Isaiah 50:8-10 (CSB)
+Christian Standard Bible
+
+>8 The one who vindicates me is near;
+>who will contend with me?
+>Let us confront each other.
+>Who has a case against me?
+>Let him come near me!
+>
+>9 In truth, the Lord God will help me;
+>who will condemn me?
+>Indeed, all of them will wear out like a garment;
+>a moth will devour them.
+
+
+

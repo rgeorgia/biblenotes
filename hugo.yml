@@ -4,23 +4,24 @@ license: "3-Clause BSD"
 title: "Bible Notes"
 theme: "ananke"
 static: "static"
-resources: "/resources"
+resources: "../resources"
 images: "/images"
 
+SectionPagesMenu: "main"
+DefaultContentLanguage: "en"
+Paginate: 5
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-SectionPagesMenu: "main"
 ignoreLogs: ["warning-goldmark-raw-html"]
-DefaultContentLanguage: "en"
 
 languages:
   en:
     languageName: "English"
-    weight: 10
+    weight: 1
 
 
 pagination:
