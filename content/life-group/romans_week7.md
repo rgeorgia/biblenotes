@@ -54,6 +54,7 @@ author: "Ron Georgia"
 	- "And we know all things work together for good <**STOP**>
 	- This and Phil 4:13 are ripped out of context.
 
+------------------------------------------------------------------------------------------
 
 ### Rough notes, thoughts and green things in general
 
