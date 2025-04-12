@@ -1,7 +1,7 @@
 ---
 title: "Romans Week 7"
 date: 2025-03-14T22:11:59-04:00
-draft: true
+draft: false
 tags: ['romans', 'lifegroup', 'nt']
 toc: true
 cascade:
@@ -17,10 +17,42 @@ author: "Ron Georgia"
 
 - **First** we need to define condemnation. What is condemnation?
 
-
 - From the previous 7 chapters, what leads Paul to say that the believer is under no condemnation?
+	- Now we are no longer under the law, but under grace. We are IN CHRIST through baptism, therefore, there is **no** condemnation. 
 
 - What role does _union_ with Christ play in this verse?
+	- Through union with Christ we are partakers of his death, burial and resurrection
+
+- Why the phrase "in the likeness of sinful flesh?"
+	- What does "in the likeness of sinful flesh" mean?
+	- This is the reason for his incarnation.
+	- "For that which He has not assumed He has not healed" (St Gregory of Nazianzus, 329 - 390)
+>If anyone has put his trust in Him as a Man without a human mind, he is really bereft of mind, and quite unworthy of salvation. For that which He has not assumed He has not healed; but that which is united to His Godhead is also saved. If only half Adam fell, then that which Christ assumes and saves may be half also; but if the whole of his nature fell, it must be united to the whole nature of Him that was begotten, and so be saved as a whole.
+	- Sin "lives" in the realm of the flesh, therefore, to defeat sin, Christ must enter into that arena. 
+	- **Likeness** - not similar but exactly.
+- How does one set their mind on the "things of the Spirit?" (8:5-8)
+	- Memorize scripture
+	- Train your mind to think on things above
+	- Actively _mind_ spiritual thins
+- Is sanctification God's work our ours? (cf 1Cor 15:10; Phil 2:12-13; Col 1:29)
+	- It's both. It is synergistic. We work **with** Christ.
+	- He provides the power and the direction.
+	- "3 Can two people walk together without agreeing on the direction?" Amos 3:3
+	- "My yoke is easy..."
+- What does it mean to be an heir? What does it mean to be a joint-heir with Christ?
+	- We inherit all that our father has in his house.
+	- We are joint-heirs, **future** glory and reigning in the age to come.
+	- **IF** we suffer with him
+2. The Assurance of Hope (8:18-39)
+- What revelation is uncovered about sin? (8:12-22)
+	- It not only ruined mankind, but affects ALL of creation.
+	- No man sins in private. It affects all those around you.
+	- Bitterness infects and defiles others (Heb 12:15)
+	- "the cedar has fallen" (Zech 11:2)
+- Misinterpreting Romans 8:28
+	- The same way we stop halfway through 8:17, we stop part way through 8:28
+	- "And we know all things work together for good <**STOP**>
+	- This and Phil 4:13 are ripped out of context.
 
 
 ### Rough notes, thoughts and green things in general
