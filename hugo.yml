@@ -9,7 +9,6 @@ images: "/images"
 
 SectionPagesMenu: "main"
 DefaultContentLanguage: "en"
-Paginate: 5
 enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
