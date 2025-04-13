@@ -36,7 +36,7 @@ author: "Ron Georgia"
 - How does one set their mind on the "things of the Spirit?" (8:5-8)
 	- Memorize scripture
 	- Train your mind to think on things above
-	- Actively _mind_ spiritual thins
+	- Actively _mind_ spiritual things
 - Is sanctification God's work our ours? (cf 1Cor 15:10; Phil 2:12-13; Col 1:29)
 	- It's both. It is synergistic. We work **with** Christ.
 	- He provides the power and the direction.
