@@ -28,9 +28,9 @@ author: "Ron Georgia"
 	- This is the reason for his incarnation.
 	- "For that which He has not assumed He has not healed" (St Gregory of Nazianzus, 329 - 390)
 >If anyone has put his trust in Him as a Man without a human mind, he is really bereft of mind, and quite unworthy of salvation. For that which He has not assumed He has not healed; but that which is united to His Godhead is also saved. If only half Adam fell, then that which Christ assumes and saves may be half also; but if the whole of his nature fell, it must be united to the whole nature of Him that was begotten, and so be saved as a whole.
-	- Sin "lives" in the realm of the flesh, therefore, to defeat sin, Christ must enter into that arena. 
 
 
+- Sin "lives" in the realm of the flesh, therefore, to defeat sin, Christ must enter into that arena. 
 - **Likeness** - not similar but exactly.
 
 - How does one set their mind on the "things of the Spirit?" (8:5-8)
