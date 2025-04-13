@@ -1,7 +1,7 @@
 ---
 title: "About Sin"
 date: 2025-04-04T23:56:55-04:00
-draft: true
+draft: false
 author: "Ron Georgia"
 tags: ['letter']
 ---
