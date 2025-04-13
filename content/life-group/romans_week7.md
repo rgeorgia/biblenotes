@@ -31,7 +31,7 @@ author: "Ron Georgia"
 	- Sin "lives" in the realm of the flesh, therefore, to defeat sin, Christ must enter into that arena. 
 
 
-	- **Likeness** - not similar but exactly.
+- **Likeness** - not similar but exactly.
 
 - How does one set their mind on the "things of the Spirit?" (8:5-8)
 	- Memorize scripture
