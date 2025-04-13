@@ -1,7 +1,7 @@
 baseURL: "http://localhost"
 languageCode: "en-us"
 license: "3-Clause BSD"
-title: "Bible Notes"
+title: "Ronverbs 3:16"
 theme: "ananke"
 static: "static"
 resources: "../resources"
