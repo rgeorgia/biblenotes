@@ -1,7 +1,7 @@
 ---
 title: "Steps toward the Cross"
 date: 2025-04-04T21:53:49-04:00
-draft: true
+draft: false
 author: "Ron Georgia"
 tags: ['letter']
 ---

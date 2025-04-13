@@ -1,7 +1,7 @@
 ---
 title: "The Bible"
 date: 2025-04-05T21:51:36-04:00
-draft: true
+draft: false
 tags: ['letter']
 author: "Ron Georgia"
 ---
