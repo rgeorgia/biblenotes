@@ -1,7 +1,7 @@
 ---
 title: "Romans_week10"
 date: 2025-05-15T15:35:26-04:00
-draft: true
+draft: false
 toc: true
 cascade:
   featured_image: '/images/last-judgement.jpg'
