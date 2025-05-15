@@ -21,3 +21,5 @@ public/*
 # themes/
 .hugo_build.lock
 PaperMod/
+ananke/
+*.swp
