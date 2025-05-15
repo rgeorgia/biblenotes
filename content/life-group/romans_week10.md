@@ -1,5 +1,5 @@
 ---
-title: "Romans_week10"
+title: "Romans Week 10"
 date: 2025-05-15T15:35:26-04:00
 draft: false
 toc: true
