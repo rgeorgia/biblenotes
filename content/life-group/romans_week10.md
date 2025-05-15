@@ -24,6 +24,8 @@ author: "Ron Georgia"
 
 ## Raw Notes
 
+### 12:1-2
+
 - As Christ offered himself as a sacrifice, well pleasing to God, we too must present ourselves, holy, without spot or blemish as a living sacrifice. 
 - **NOTE WORTHY**: Christ offered his body as a sacrifice. The Church is the body of Christ; therefore, we too should be continually offering ourselves as well.
 - While Christ offered himself once, for all; the Church (his body) offers a continual sacrifice to God.
@@ -32,7 +34,7 @@ author: "Ron Georgia"
 - The sacrifice as living stands in contrast to the dead and lifeless sacrifices of animals and produce as practiced by Jews and Pagans
 - Just as the OT sacrifice was to be an animal without spot or blemish, we too offer our bodies to God, holy, without spot, without blemish.
 
-### **Transform** not **conform**
+#### **Transform** not **conform**
 
 - We are not to be conformed to this world (age)
 - The world applies constant pressure to our mind and heart, inviting, seducing and even demanding that we conform.
@@ -47,3 +49,23 @@ author: "Ron Georgia"
 - What's in your mind? (Now this would be a good commercial)
 - Without renewing we fall into adopting the *world's* views, our faith becomes brittle and easily broken.
 - If we are conformed to this world, our "sacrifice" is blemished. (Mal 1:7-8)
+
+### 12:3-8
+
+- Don't think of yourself more highly then you ought.
+    - This is totally contrary to what "world" pushes.
+    - This is an area we need to transform
+- Sober judgment - according to the measure of faith. This is why we are to consider the weaker brother.
+- **One** body with many members
+    - Gifts are for the edification of the body **NOT** the individual possessing the gift.
+    - This is contrary to worldly thinking which pushes the "what's in it for me?" mentality or "I need to be appreciated, needed and respected."
+    - Be and individual! Says the world
+    - Remember Simon in the book of Acts.
+- Being high minded causes one to place himself above others.
+- Any sense of superiority is unreasonable
+
+#### Measure of faith
+
+- Not saving faith, but rather is is the ability "the individual capacity to receive spiritual gifts, which capacity God gives for different Christians in differing measures."
+
+**NOTE** Often we tend to segment our lives into actions that are spiritual and actions that are secular. We have a "spiritual" ministry, but a "secular" job. This is wrong and misguided thinking. 
