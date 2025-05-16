@@ -69,3 +69,22 @@ author: "Ron Georgia"
 - Not saving faith, but rather is is the ability "the individual capacity to receive spiritual gifts, which capacity God gives for different Christians in differing measures."
 
 **NOTE** Often we tend to segment our lives into actions that are spiritual and actions that are secular. We have a "spiritual" ministry, but a "secular" job. This is wrong and misguided thinking. 
+
+### Let Love Be Genuine
+
+- Love without hypocrisy
+- HATE what is EVIL
+- How does one determine what is evil?
+- How do we prevent worldly definitions from influencing our standard?
+- How do we prevent our culture from leaking into our judgment of good and evil?
+- What is "genuine" love?
+- HATE, ABHOR, REJECT
+- CLING, HOLD FAST
+- In order to genuinely love without hypocrisy, to hate and abhor evil, one must purge the mind, wash the thoughts with **total submission** to God's word.
+- Bible reading, study, memorizing and internalizing cannot be an after thought. It is not something you "fit in" to your schedule.
+- It **must** take prescience
+
+#### Show Honor
+
+- Removes pride and thinking highly of yourself.
+
