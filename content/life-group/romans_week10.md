@@ -48,7 +48,11 @@ author: "Ron Georgia"
 - We **continually** renew our minds.
 - What's in your mind? (Now this would be a good commercial)
 - Without renewing we fall into adopting the *world's* views, our faith becomes brittle and easily broken.
-- If we are conformed to this world, our "sacrifice" is blemished. (Mal 1:7-8)
+- If we are conformed to this world, our "sacrifice" is blemished. (Malachi 1:7-8)
+
+>7 “You have shown contempt by offering defiled sacrifices on my altar.
+>“Then you ask, ‘How have we defiled the sacrifices?’
+>“You defile them by saying the altar of the Lord deserves no respect. 8 When you give blind animals as sacrifices, isn't that wrong? And isn't it wrong to offer animals that are crippled and diseased? Try giving gifts like that to your governor, and see how pleased he is!” says the Lord of Heaven’s Armies.
 
 ### 12:3-8
 
