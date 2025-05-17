@@ -18,8 +18,7 @@
 .idea/*
 backup/*
 public/*
-# themes/
+themes/
+themes/ananke/*
 .hugo_build.lock
-PaperMod/
-ananke/
 *.swp
