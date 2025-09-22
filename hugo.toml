@@ -1,4 +1,4 @@
-baseURL = "http://localhost"
+#baseURL = "http://localhost"
 languageCode = "en-us"
 license = "3-Clause BSD"
 title = "Ronverbs 3:16"
