@@ -1,13 +1,13 @@
----
-title: "Romans Week 7"
-date: 2025-03-14T22:11:59-04:00
-draft: false
-tags: ['romans', 'lifegroup', 'nt']
-toc: true
-cascade:
-  featured_image: '/images/last-judgement.jpg'
-author: "Ron Georgia"
----
++++
+title = "Romans Week 7"
+date = 2025-03-14T22:11:59-04:00
+draft = false
+tags = ['romans', 'lifegroup', 'nt']
+toc = true
+[cascade]
+  featured_image = '/images/last-judgement.jpg'
+author = "Ron Georgia"
++++
 
 ## Week 7 Life In the Spirit (Romans 8:1-39)
 
@@ -102,7 +102,7 @@ John 3:16-21(NKJV)
 
 Christian Standard Bible
 
->16 For God loved the world in this way:[a] He gave[b] his one and only Son, so that everyone who believes in him will not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Anyone who believes in him is not condemned, but anyone who does not believe is already condemned, because he has not believed in the name of the one and only Son of God. 19 This is the judgment: The light has come into the world, and people loved darkness rather than the light because their deeds were evil. 20 For everyone who does evil hates the light and avoids it,[c] so that his deeds may not be exposed. 21 But anyone who lives by[d] the truth comes to the light, so that his works may be shown to be accomplished by God.”
+>16 For God loved the world in this way:[a] He gave[b] his one and only Son, so that everyone who believes in him will not perish but have eternal life. 17 For God did not send his Son into the world to condemn the world, but to save the world through him. 18 Anyone who believes in him is not condemned, but anyone who does not believe is already condemned, because he has not believed in the name of the one and only Son of God. 19 This is the judgment = The light has come into the world, and people loved darkness rather than the light because their deeds were evil. 20 For everyone who does evil hates the light and avoids it,[c] so that his deeds may not be exposed. 21 But anyone who lives by[d] the truth comes to the light, so that his works may be shown to be accomplished by God.”
 
 John 8:10
 Christian Standard Bible
@@ -114,7 +114,7 @@ Christian Standard Bible
   - by baptism
   - baptized into Christ
 
-> Not only is he forgiven his sins, but he is liberated from their power and inner compulsion. Under the law he was a miserable prisoner of war and cried out "Who will rescue me?" (Farley, The epistle to the Romans: A gospel for all 2005 p 95)
+> Not only is he forgiven his sins, but he is liberated from their power and inner compulsion. Under the law he was a miserable prisoner of war and cried out "Who will rescue me?" (Farley, The epistle to the Romans = A gospel for all 2005 p 95)
 
 It is by the power of God's Spirit we are made free from the law of sin and death.
 
@@ -150,7 +150,7 @@ The "law of sin and death" is **not** a reference to the Law of Moses, which Pau
 >2 **Set your minds** on the things that are above, not on the things that are on earth, 
 >3 for you have died, and your life is hidden with Christ in God. 
 >4 When Christ who is your life is revealed, then you also will be revealed with him in glory.
->5 **Put to death**, therefore, whatever in you is earthly: sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). 
+>5 **Put to death**, therefore, whatever in you is earthly = sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). 
 >6 On account of these the wrath of God is coming on those who are disobedient.
 >
 >Col 3:1-6

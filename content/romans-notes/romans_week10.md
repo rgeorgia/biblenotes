@@ -1,12 +1,12 @@
----
-title: "Romans Week 10"
-date: 2025-05-15T15:35:26-04:00
-draft: false
-toc: true
-cascade:
-  featured_image: '/images/last-judgement.jpg'
-author: "Ron Georgia"
----
++++
+title = "Romans Week 10"
+date = 2025-05-15T15:35:26-04:00
+draft = false
+toc = true
+[cascade]
+  featured_image = '/images/last-judgement.jpg'
+author = "Ron Georgia"
++++
 
 
 ## Week 10 Living in the Light of the Gospel
@@ -27,7 +27,7 @@ author: "Ron Georgia"
 ### 12:1-2
 
 - As Christ offered himself as a sacrifice, well pleasing to God, we too must present ourselves, holy, without spot or blemish as a living sacrifice. 
-- **NOTE WORTHY**: 
+- **NOTE WORTHY** = 
     - Christ offered his body as a sacrifice. The Church is the body of Christ; therefore, we too should be continually offering ourselves as well.
 - While Christ offered himself once, for all; the Church (his body) offers a continual sacrifice to God.
 >
@@ -147,7 +147,7 @@ Romans 12:15-21
 - God's tool
     > who says to Cyrus, “My shepherd, he will fulfill all my pleasure” and says to Jerusalem, “She will be rebuilt,” and of the temple, “Its foundation will be laid.” (Isa 44:28)
     >
-    >The Lord says this to Cyrus, his anointed, whose right hand I have grasped to subdue nations before him and disarm kings, to open doors before him, and even city gates will not be shut: (Isa 45:1)
+    >The Lord says this to Cyrus, his anointed, whose right hand I have grasped to subdue nations before him and disarm kings, to open doors before him, and even city gates will not be shut = (Isa 45:1)
 
 - Render properly
     >Then he said to them, “Give, then, to Caesar the things that are Caesar’s, and to God the things that are God’s.”(Matt 22:21)

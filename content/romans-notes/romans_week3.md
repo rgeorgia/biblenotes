@@ -1,15 +1,15 @@
----
-title: "Romans Week 3"
-date: 2025-02-16T19:24:59-05:00
-draft: false
-tags: ['romans', 'lifegroup', 'nt']
-cascade:
-    featured_image: 'images/Christ-angels-deisis-2-GraceTruth.jpg'
-author: "Ron Georgia"
----
++++
+title = "Romans Week 3"
+date = 2025-02-16T19:24:59-05:00
+draft = false
+tags = ['romans', 'lifegroup', 'nt']
+[cascade]
+    featured_image = 'images/Christ-angels-deisis-2-GraceTruth.jpg'
+author = "Ron Georgia"
++++
 
 
-## Week 3: God's Righteousness in His Wrath Against Sin
+## Week 3 = God's Righteousness in His Wrath Against Sin
 
 ## The Study Guide
 
@@ -102,11 +102,11 @@ Romans 2:29. "The name **Jew** comes from "Judah," which means "the Lord be prai
 
 ### Resources
 
-[1] _The Epistle to the Romans: A Gospel for All_, Farley - Ancient Faith Publishing - 2005
+[1] _The Epistle to the Romans = A Gospel for All_, Farley - Ancient Faith Publishing - 2005
 
 [2] _The Orthodox study Bible_, Thomas Nelson - 2008
 
-[3] _Romans: an Orthodox commentary_, Reardon - St. Vladimir's Seminary Press - 2018
+[3] _Romans = an Orthodox commentary_, Reardon - St. Vladimir's Seminary Press - 2018
 
 [4] _Commentary on the Epistle to the Romans. Books 1-5_, translation of the works of Origen, Scheck - Catholic University of America Press - 2001
 

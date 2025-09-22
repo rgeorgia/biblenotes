@@ -1,10 +1,10 @@
----
-title: "Micah"
-date: 2022-11-10T05:57:41-05:00
-draft: true
-tags: ['micah', 'devotional', 'ot']
-author: "Ron Georgia"
----
++++
+title = "Micah"
+date = 2022-11-10T05:57:41-05:00
+draft = true
+tags = ['micah', 'devotional', 'ot']
+author = "Ron Georgia"
++++
 
 # Chapter 1
 
@@ -137,7 +137,7 @@ Coming soon
 >
 > Should we sacrifice our firstborn children to pay for our sins?
 >
-> No, O people, the Lord has told you what is good, and this is what he requires of you: to **do what is right**, to **love mercy**,
+> No, O people, the Lord has told you what is good, and this is what he requires of you = to **do what is right**, to **love mercy**,
 
 
 Verse 8, while quoted for various and sundry reasons, is the answer to the questions posed in verses 6 and 7.

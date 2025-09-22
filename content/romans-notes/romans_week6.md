@@ -1,16 +1,16 @@
----
-title: "Romans Week 6"
-date: 2025-03-30T10:41:33-04:00
-draft: false
-tags: ['romans', 'lifegroup', 'nt']
-author: "Ron Georgia"
----
++++
+title = "Romans Week 6"
+date = 2025-03-30T10:41:33-04:00
+draft = false
+tags = ['romans', 'lifegroup', 'nt']
+author = "Ron Georgia"
++++
 
-## Week 6: The Triumph of Grace
+## Week 6 = The Triumph of Grace
 
 ## Reflection and Discussion
 
-**1a**. Refute: since more sinning results in more grace we should sin more.
+**1a**. Refute = since more sinning results in more grace we should sin more.
 
 Since we are raised with Christ, we should walk in the newness of life. Our old self is crucified and we are no longer enslaved by sin. **Do not** let sin reign in your mortal bodies.
 
@@ -50,7 +50,7 @@ Because it is holy and good. It reveals and exposes our sin.
 
 > "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord"
 
-Here is the conclusion and summary: obedience to sin results in death, obedience to righteousness in Christ, results in eternal life.
+Here is the conclusion and summary = obedience to sin results in death, obedience to righteousness in Christ, results in eternal life.
 
 ### Question / Thought
 
@@ -100,18 +100,18 @@ In (the) confession of faith, we observer the **primacy** of the **resurrection*
 >
 > 4 When Christ who is your[a] life is revealed, then you also will be revealed with him in glory.
 >
-> 5 Put to death, therefore, whatever in you is earthly: sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). (NRSVue)
+> 5 Put to death, therefore, whatever in you is earthly = sexual immorality, impurity, passion, evil desire, and greed (which is idolatry). (NRSVue)
 
 - 6:11 ==> Consider yourself dead to sin and **alive** to Christ
 - Dominion
 - 6:15 => Should we sin? This was answer in vss 12-14
-- 6:16 => QUESTION: this death and life, is it physical, spiritual or both?
-- From the study book: pursue sacrificial obedience, why is he saying we are not under the law?
+- 6:16 => QUESTION = this death and life, is it physical, spiritual or both?
+- From the study book = pursue sacrificial obedience, why is he saying we are not under the law?
 - The law does not demand we make sacrifice, the law is to show us what sin is, how sinful we are and to bring us to Christ. 
   - "Why then the law? It was added because of transgressions, until the offspring[h] would come to whom the promise had been made, and it was ordained through angels by a mediator." Gal 3:19
 - Paul argues that God's righteousness comes through faith, not by the law
 - The role of the law was not to eliminate sin, but to "increase" it (?)
-- **THOUGHT**: rejection of the law, for the Jew, would lead to moral chaos and anarchy. (Fr. Lawrence, The Epistle to the Romans, A Gospel for all)
+- **THOUGHT** = rejection of the law, for the Jew, would lead to moral chaos and anarchy. (Fr. Lawrence, The Epistle to the Romans, A Gospel for all)
 - Paul "mono logs" with Judaizers, addressing their objections.
 - Even though the Christian does not make the law central to their life yet they still experience freedom from sin.
 - Through union with Christ and being led by the Holy Spirit, we can know the true righteousness of God.
@@ -125,5 +125,5 @@ In (the) confession of faith, we observer the **primacy** of the **resurrection*
 - Not the **law** but **sin** lies within our members
 - The Law does not eliminate sin, it reveals what it is and teaches us to hate sin.
 - By "the flesh," Paul means the life of our senses, as it has degraded into a state of rebellion against God.
-- Definition of the flesh: "living in the flesh, our sinful passions" Romans 7:5
+- Definition of the flesh = "living in the flesh, our sinful passions" Romans 7:5
 

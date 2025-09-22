@@ -1,10 +1,10 @@
----
-title: "Jonah"
-date: 2022-11-05T10:41:33-04:00
-draft: false
-tags: ['jonah', 'devotional', 'ot']
-author: "Ron Georgia"
----
++++
+title = "Jonah"
+date = 2022-11-05T10:41:33-04:00
+draft = false
+tags = ['jonah', 'devotional', 'ot']
+author = "Ron Georgia"
++++
 
 ## CHAPTER ONE
 
