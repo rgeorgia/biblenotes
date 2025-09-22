@@ -6,7 +6,7 @@ tags = ['romans', 'lifegroup', 'nt']
 author = "Ron Georgia"
 +++
 
-## Week 6 = The Triumph of Grace
+## Week 6 The Triumph of Grace
 
 ## Reflection and Discussion
 

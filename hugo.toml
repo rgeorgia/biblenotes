@@ -16,9 +16,10 @@ buildExpired = false
 enableEmoji = true
 ignoreLogs = [ "warning-goldmark-raw-html" ]
 
+[languages]
 [languages.en]
-languageName = "English"
 weight = 1
+contentDir = "content"
 
 [pagination]
 pagerSize = 9
@@ -31,15 +32,15 @@ featured_image_class = "cover bg-top"
 favicon = "/images/logo.jpg"
 logo = "/images/logo.jpg"
 logo_width = "200px"
-recent_posts_number = 5
-mainSections = [ "life-group" ]
+recent_posts_number = 3
+mainSections =  "life-group" 
 cover_dimming_class = "bg-black-60"
 read_more_copy = "Read more about this entry"
 date_format = "date_full"
 
-["params.ananke_socials"]
+[[params.ananke_socials]]
 name = "github"
-url = "https://github.com/rgeorgia?tab=repositories"
+url = "https://github.com/rgeorgia"
 
 [cascade]
 featured_image = "/images/Christ-angels-deisis-2-GraceTruth.jpg"
