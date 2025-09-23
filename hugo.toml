@@ -48,3 +48,6 @@ featured_image = "/images/Christ-angels-deisis-2-GraceTruth.jpg"
 [taxonomies]
 tag = "tags"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

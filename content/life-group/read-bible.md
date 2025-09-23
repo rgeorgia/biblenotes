@@ -1,6 +1,5 @@
 +++
 title = "Why Read Bible"
-draft = true
 author = "Ron Georgia"
 tags = [ "bible", "christian living" ]
 toc = true
