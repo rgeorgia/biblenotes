@@ -23,7 +23,7 @@ toc = true
 
 I will add...
 
-9. The Bible was give to us by God so that we might become more like Christ.
+9. The Bible was given to us by God so that we might become more like Christ.
 > 12 For now we see only a reflection[a] as in a mirror, but then face to face. Now I know in part, but then I will know fully, as I am fully known. 1 Corinthians 13:12 (CSB)
 10. The Bible guides us along that narrow way.
 > Your word is a lamp for my feet and a light on my path. Psalms 119:105 [118:105]
