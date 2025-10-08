@@ -1,4 +1,4 @@
-#baseURL = "http://localhost"
+baseURL = "http://localhost:3000"
 languageCode = "en-us"
 license = "3-Clause BSD"
 title = "Ronverbs 3:16"
@@ -15,6 +15,13 @@ buildFuture = false
 buildExpired = false
 enableEmoji = true
 ignoreLogs = [ "warning-goldmark-raw-html" ]
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
 
 [languages]
 [languages.en]
