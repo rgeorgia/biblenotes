@@ -1,7 +1,7 @@
 +++
 title = "Weekly Meditation"
 date =  2025-10-11T20:13:31-04:00
-draft = true
+draft = false
 author = "Ron Georgia"
 +++
 
