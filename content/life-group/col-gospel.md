@@ -6,15 +6,15 @@ draft = false
 ## Who is Jesus?
 
 - He is the image of the invisible God (Col 1:15)
+- He is also the head of the body, the church; (Col 1:18)
+- He is the beginning,
+- The firstborn from the dead
 
 ## What did he accomplish?
 
 - He died on the cross. That's something he **did**, but what did that accomplish?
 --- 
 - He has **rescued** us from the domain of darkness and transferred us into the kingdom of the Son he loves (Col 1:13)
-- He is also the head of the body, the church; (Col 1:18)
-- He is the beginning,
-- The firstborn from the dead
 - He reconciled everything to himself (Col 1:20)
 - Made peace through the blood of his cross (Col 1:20)
 - But now he has reconciled you by his physical body (Col 1:22)
