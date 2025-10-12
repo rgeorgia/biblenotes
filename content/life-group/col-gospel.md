@@ -1,8 +1,6 @@
 +++
 title = "The Gospel According to Colossians"
-date =  2025-10-11T20:13:31-04:00
 draft = false
-author = "Ron Georgia"
 +++
 
 ## Who is Jesus?
