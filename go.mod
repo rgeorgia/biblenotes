@@ -1,4 +1,4 @@
-module github.com/theNewDynamic/gohugo-theme-ananke.git
+module github.com/rgeorgia/biblenotes.git
 
 go 1.24.1
 
