@@ -1,12 +1,12 @@
 +++
-title = "Romans Week 6"
+title = "Romans 6"
 date = 2025-03-30T10:41:33-04:00
 draft = false
-tags = ['romans', 'lifegroup', 'nt']
+tags = ['romans', 'nt']
 author = "Ron Georgia"
 +++
 
-## Week 6 The Triumph of Grace
+## The Triumph of Grace
 
 ## Reflection and Discussion
 

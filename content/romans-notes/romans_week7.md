@@ -1,15 +1,15 @@
 +++
-title = "Romans Week 7"
+title = "Romans 8"
 date = 2025-03-14T22:11:59-04:00
 draft = false
-tags = ['romans', 'lifegroup', 'nt']
+tags = ['romans', 'nt']
 toc = true
 [cascade]
   featured_image = '/images/last-judgement.jpg'
 author = "Ron Georgia"
 +++
 
-## Week 7 Life In the Spirit (Romans 8:1-39)
+## Life In the Spirit (Romans 8:1-39)
 
 ## Study Book Questions
 

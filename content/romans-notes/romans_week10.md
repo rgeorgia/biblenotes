@@ -1,7 +1,8 @@
 +++
-title = "Romans Week 10"
+title = "Romans 12"
 date = 2025-05-15T15:35:26-04:00
 draft = false
+tags = ['romans', 'nt']
 toc = true
 [cascade]
   featured_image = '/images/last-judgement.jpg'
@@ -9,7 +10,7 @@ author = "Ron Georgia"
 +++
 
 
-## Week 10 Living in the Light of the Gospel
+## Living in the Light of the Gospel
 
 ## Study Book Questions
 

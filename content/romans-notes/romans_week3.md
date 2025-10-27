@@ -1,15 +1,15 @@
 +++
-title = "Romans Week 3"
+title = "Romans 1"
 date = 2025-02-16T19:24:59-05:00
 draft = false
-tags = ['romans', 'lifegroup', 'nt']
+tags = ['romans', 'nt']
 [cascade]
     featured_image = 'images/Christ-angels-deisis-2-GraceTruth.jpg'
 author = "Ron Georgia"
 +++
 
 
-## Week 3 = God's Righteousness in His Wrath Against Sin
+## God's Righteousness in His Wrath Against Sin
 
 ## The Study Guide
 
